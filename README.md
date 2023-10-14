@@ -18,5 +18,6 @@ Scissors beats Paper
 Paper beats Rock
 The score will be updated after each round.
 
-static website using aws s3:-http://premsai.rock-paper-scissor.s3-website-us-east-1.amazonaws.com
+I used Amazon S3 (Simple Storage Service) is an AWS cloud storage service that can be used to host static websites, making it a cost-effective solution for serving HTML files, CSS, JavaScript, and other assets.
+Static Website:- http://premsai.rock-paper-scissor.s3-website-us-east-1.amazonaws.com
 
