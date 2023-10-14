@@ -18,3 +18,5 @@ Scissors beats Paper
 Paper beats Rock
 The score will be updated after each round.
 
+static website using aws s3:-http://premsai.rock-paper-scissor.s3-website-us-east-1.amazonaws.com
+
